@@ -27,7 +27,7 @@ function verificar(){
                 img.setAttribute('src', 'hidoso.png')
             }
         }else if (fsex[1].checked) {
-            genero = "feminino"
+            genero = "Mulher"
             if(idade >=0 && idade <= 2){
                 //bebe
                 img.setAttribute('src', 'bmulher.png')
